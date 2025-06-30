@@ -1,2 +1,2 @@
 # SimplePlot
-Scripts for scientific plotting
+Python scripts for scientific plotting
