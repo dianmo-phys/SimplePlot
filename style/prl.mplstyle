@@ -1,0 +1,44 @@
+# matplotlib style for prl
+# 	Use this style with
+#       plt.style.use("path/to/prl.mplstyle")
+
+# FONT (requires LaTeX for Computer Modern)
+text.usetex         : True
+font.family         : serif
+mathtext.fontset    : cm
+font.size           : 8
+
+# FIGURE
+figure.figsize      : 3.375, 2.5
+figure.dpi          : 600
+savefig.dpi         : 600
+
+# AXES
+axes.labelsize      : 8
+axes.titlesize      : 8
+axes.linewidth      : 0.8
+axes.spines.top     : True
+axes.spines.right   : True
+
+# TICKS
+xtick.direction     : in
+ytick.direction     : in
+xtick.labelsize     : 7
+ytick.labelsize     : 7
+xtick.major.size    : 3
+ytick.major.size    : 3
+xtick.top           : True
+ytick.right         : True
+
+# LINES
+lines.linewidth     : 1
+lines.markersize    : 4
+
+# LEGEND
+legend.fontsize     : 7
+legend.frameon      : False
+
+# GRID
+grid.linestyle      : :
+grid.linewidth      : 0.5
+grid.alpha          : 0.3
