@@ -1,5 +1,5 @@
-# matplotlib style for prl
-# 	Use this style with
+# matplotlib style for phys. rev. lett.
+#       Use this style with
 #       plt.style.use("path/to/prl.mplstyle")
 
 # FONT (requires LaTeX for Computer Modern)
